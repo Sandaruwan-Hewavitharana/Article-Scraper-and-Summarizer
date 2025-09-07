@@ -9,7 +9,7 @@ import google.generativeai as genai
 #    (For Windows, use: set GEMINI_API_KEY=YOUR_API_KEY)
 # -----------------
 
-API_KEY = "AIzaSyCBhAVoTLlshLH7BMzxxVAaXXY84aF28ks"
+API_KEY = "GEMINI_API_KEY"
 
 def summarize_text(text_to_summarize: str) -> str:
     """
