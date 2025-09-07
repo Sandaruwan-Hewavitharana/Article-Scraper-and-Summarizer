@@ -63,3 +63,4 @@ To get this project up and running on your local machine, follow these steps.
 
     The application will run at `http://127.0.0.1:5000`.
 
+![image alt](https://github.com/Sandaruwan-Hewavitharana/Article-Scraper-and-Summarizer/blob/b37f393abb2ec6cab6fe5f47961ff541b9cc4f2b/127.0.0.1_5000_(Nest%20Hub%20Max).png)
