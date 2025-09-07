@@ -2,6 +2,8 @@
 
 This is a lightweight web application built with Python and the Flask framework that provides concise, AI-generated summaries of news articles. It's designed to help users quickly grasp the key points of a story without having to read the entire article. The application uses a custom web scraping tool to fetch article content and the powerful Google Gemini API to perform the summarization.
 
+![image alt](https://github.com/Sandaruwan-Hewavitharana/Article-Scraper-and-Summarizer/blob/b37f393abb2ec6cab6fe5f47961ff541b9cc4f2b/127.0.0.1_5000_(Nest%20Hub%20Max).png)
+
 ### **Key Features**
 
   * **AI-Powered Summarization**: Utilizes the Google Gemini AI model to generate human-like, 3-4 sentence summaries of articles.
@@ -16,6 +18,8 @@ This is a lightweight web application built with Python and the Flask framework 
   * **Web Scraping**: `requests`, `beautifulsoup4`, `newspaper3k`
   * **AI/LLM**: Google Gemini API via the `google-generativeai` library
   * **Frontend**: HTML, CSS
+
+![image alt](https://github.com/Sandaruwan-Hewavitharana/Article-Scraper-and-Summarizer/blob/bd0972cabf4d461767c3d38b77967e25ff1a596f/127.0.0.1_5000_article_url%3Dhttps___www.bbc.com_travel_to-the-ends-of-the-earth(Nest%20Hub%20Max).png)
 
 ### **Setup and Installation**
 
@@ -63,4 +67,3 @@ To get this project up and running on your local machine, follow these steps.
 
     The application will run at `http://127.0.0.1:5000`.
 
-![image alt](https://github.com/Sandaruwan-Hewavitharana/Article-Scraper-and-Summarizer/blob/b37f393abb2ec6cab6fe5f47961ff541b9cc4f2b/127.0.0.1_5000_(Nest%20Hub%20Max).png)
